@@ -1,6 +1,6 @@
 # REX: Peer-to-Peer (P2P) and Face-to-Face (F2F) Cryptocurrency Trading Platform
 
-Welcome to the REX project repository! This repository contains the **web application** of REX, built with **Next.js**. REX is a decentralized, reputational exchange platform focused on peer-to-peer (P2P) and face-to-face (F2F) trading, allowing users to buy and sell cryptocurrency seamlessly with minimal barriers.
+Welcome to the REX project repository! This repository contains the **web application** of REX, built with **Next.js**. REX is a decentralized, reputational exchange platform focused on peer-to-peer (P2P) and face-to-face (F2F) trading, allowing users to buy and sell cryptocurrency/fiat seamlessly with minimal barriers.
 
 ## Features
 
@@ -33,8 +33,8 @@ This application is built with **Next.js** for server-rendered React application
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/rex-nextjs.git
-   cd rex-nextjs
+   git clone https://github.com/fabohax/r2x.git
+   cd r2x
    ```
 
 2. Install dependencies:
